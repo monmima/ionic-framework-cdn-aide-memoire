@@ -1,4 +1,5 @@
-# ionicCDNExample
-ionic framework ün CDN paketleri kullanılarak .html dosya tabanlı bir mobil uygulama geliştrilmiştir.
-Geliştirilen uygulamanın amacı, kullanıcı tarafından girilen ürün ve tutar miktarını anlık olarak hafızada tutabilmektir.
-Kullanıcı tarafından girilen ürün ve miktar değerlerine göre siparişler listesi oluşturulur.
+# Ionic Framework aide-mémoire
+
+The starting point for this project is a fork of [hasanadiguzel](https://github.com/hasanadiguzel)'s [ionicCDNExample](https://github.com/hasanadiguzel/ionicCDNExample). Thank you hasanadiguzel!
+
+As in all my other aide-mémoire projects, the point of this one is to help me remember how to use the API and use it as a resource available from any computer without a build.
